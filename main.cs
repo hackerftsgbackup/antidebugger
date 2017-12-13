@@ -1,10 +1,3 @@
-/*
-AntiDebugger in c# by d3z3n0v3
-data 10/09/17 -
-memories: 0x00010002 - 0x80010001
-buffer vulnerability
-*/
-
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
